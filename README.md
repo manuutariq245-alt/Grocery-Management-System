@@ -18,7 +18,21 @@ A desktop-based grocery store management application developed using Python, Tki
 - Tkinter
 - SQLite
 
+## How to Run
+
+1. Install Python on your computer.
+2. Download or clone this repository.
+3. Open the project folder.
+4. Run the Python file.
+
 ## Author
 
-Developed by [Your GitHub Username]
+Developed by **Your Name**
+
 BSCS Student | Python Developer
+
+## Copyright
+
+© 2026 Your Name. All rights reserved.
+
+This project is shared for educational and portfolio purposes. Please give proper credit to the original author if referencing this project.
