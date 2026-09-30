@@ -1,5 +1,7 @@
 # Grocery Management System
 
+[![Download Windows App](https://shields.io)](https://github.com)
+
 A desktop-based grocery store management application developed using Python, Tkinter, and SQLite to manage products, inventory, sales, and customer billing operations.
 
 ## Features
